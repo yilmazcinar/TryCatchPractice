@@ -1,0 +1,14 @@
+C:\Users\caplo\source\repos\TryCatchPractice\TryCatchPractice\bin\Debug\net8.0\TryCatchPractice.exe
+C:\Users\caplo\source\repos\TryCatchPractice\TryCatchPractice\bin\Debug\net8.0\TryCatchPractice.deps.json
+C:\Users\caplo\source\repos\TryCatchPractice\TryCatchPractice\bin\Debug\net8.0\TryCatchPractice.runtimeconfig.json
+C:\Users\caplo\source\repos\TryCatchPractice\TryCatchPractice\bin\Debug\net8.0\TryCatchPractice.dll
+C:\Users\caplo\source\repos\TryCatchPractice\TryCatchPractice\bin\Debug\net8.0\TryCatchPractice.pdb
+C:\Users\caplo\source\repos\TryCatchPractice\TryCatchPractice\obj\Debug\net8.0\TryCatchPractice.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\caplo\source\repos\TryCatchPractice\TryCatchPractice\obj\Debug\net8.0\TryCatchPractice.AssemblyInfoInputs.cache
+C:\Users\caplo\source\repos\TryCatchPractice\TryCatchPractice\obj\Debug\net8.0\TryCatchPractice.AssemblyInfo.cs
+C:\Users\caplo\source\repos\TryCatchPractice\TryCatchPractice\obj\Debug\net8.0\TryCatchPractice.csproj.CoreCompileInputs.cache
+C:\Users\caplo\source\repos\TryCatchPractice\TryCatchPractice\obj\Debug\net8.0\TryCatchPractice.dll
+C:\Users\caplo\source\repos\TryCatchPractice\TryCatchPractice\obj\Debug\net8.0\refint\TryCatchPractice.dll
+C:\Users\caplo\source\repos\TryCatchPractice\TryCatchPractice\obj\Debug\net8.0\TryCatchPractice.pdb
+C:\Users\caplo\source\repos\TryCatchPractice\TryCatchPractice\obj\Debug\net8.0\TryCatchPractice.genruntimeconfig.cache
+C:\Users\caplo\source\repos\TryCatchPractice\TryCatchPractice\obj\Debug\net8.0\ref\TryCatchPractice.dll
